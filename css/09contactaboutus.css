@@ -64,12 +64,12 @@
 }
 .footer {
     position: absolute;
-    top: 2534px;
+    top: 1067px;
     left: 0px;
     width: 1728px;
     height: 50px;
+    text-align: center;
     color: #ffa500;
-    font-family: Roboto;
 }
 .title-bar-child {
     position: absolute;
@@ -82,13 +82,13 @@
 .main-shop {
     position: absolute;
     top: 36px;
-    left: 584px;
+    left: 464px;
     line-height: 60px;
 }
 .home-our-shop {
     position: absolute;
     top: 100px;
-    left: 797px;
+    left: 741px;
     font-size: 16px;
     font-family: Roboto;
     color: #0f1db9;
@@ -99,342 +99,161 @@
     left: 0px;
     width: 1728px;
     height: 150px;
+    text-align: center;
     font-size: 40px;
-    color: #000;
     font-family: 'Press Start 2P';
 }
-.page-number-child {
+.juanjo-marmol-untitled-1-icon {
     position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0%;
-    right: 0%;
-    bottom: 0%;
-    left: 0%;
-    border-radius: 5px;
-    background-color: #ff69b4;
+    top: 361px;
+    left: 100px;
+    width: 701px;
+    height: 656px;
+    object-fit: cover;
 }
-.div {
+.what-is-artbitstudio {
     position: absolute;
-    top: 16.67%;
-    left: 39.47%;
-    font-weight: 600;
+    top: 373px;
+    left: 906px;
+    font-size: 24px;
+    line-height: 34px;
+    font-family: 'Press Start 2P';
 }
-.page-number {
+.what-is-our {
     position: absolute;
-    top: 2454px;
-    left: 577px;
-    width: 38px;
-    height: 30px;
-}
-.div1 {
-    position: absolute;
-    top: 16.67%;
-    left: 28.95%;
-    font-weight: 600;
-}
-.page-number1 {
-    position: absolute;
-    top: 2454px;
-    left: 644px;
-    width: 38px;
-    height: 30px;
-}
-.page-number2 {
-    position: absolute;
-    top: 2454px;
-    left: 711px;
-    width: 38px;
-    height: 30px;
-}
-.div3 {
-    position: absolute;
-    top: 16.67%;
-    left: 31.58%;
-    font-weight: 600;
-}
-.page-number3 {
-    position: absolute;
-    top: 2454px;
-    left: 778px;
-    width: 38px;
-    height: 30px;
-}
-.page-number4 {
-    position: absolute;
-    top: 2454px;
-    left: 845px;
-    width: 38px;
-    height: 30px;
-}
-.page-number5 {
-    position: absolute;
-    top: 2454px;
-    left: 912px;
-    width: 38px;
-    height: 30px;
-}
-.div6 {
-    position: absolute;
-    top: 16.67%;
-    left: 34.21%;
-    font-weight: 600;
-}
-.page-number6 {
-    position: absolute;
-    top: 2454px;
-    left: 979px;
-    width: 38px;
-    height: 30px;
-}
-.page-number7 {
-    position: absolute;
-    top: 2454px;
-    left: 1046px;
-    width: 38px;
-    height: 30px;
-}
-.page-number8 {
-    position: absolute;
-    top: 2454px;
-    left: 1113px;
-    width: 38px;
-    height: 30px;
-}
-.img-placeholder-child {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0%;
-    right: 0%;
-    bottom: 0%;
-    left: 0%;
-}
-.img-placeholder {
-    position: absolute;
-    top: 44px;
-    left: 42px;
-    width: 270px;
-    height: 270px;
-    background-image: url('Img Placeholder.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top;
-}
-.product-title-pixel {
-    position: absolute;
-    top: 55px;
-    left: 354px;
-    font-size: 20px;
-}
-.by-artist-name {
-    position: absolute;
-    top: 94px;
-    left: 354px;
-    line-height: 21px;
-}
-.category {
-    position: absolute;
-    top: 129px;
-    left: 354px;
-    font-size: 14px;
-}
-.div9 {
-    position: absolute;
-    top: 167px;
-    left: 354px;
-    font-size: 20px;
-    color: #0f1db9;
-    text-align: center;
+    top: 573px;
+    left: 906px;
+    font-size: 24px;
+    line-height: 34px;
+    font-family: 'Press Start 2P';
 }
 .lorem-ipsum-dolor {
     position: absolute;
-    top: 209px;
-    left: 354px;
+    top: 418px;
+    left: 907px;
     line-height: 21px;
-    color: #828282;
     text-align: justify;
-    display: flex;
-    align-items: center;
-    width: 965px;
-    height: 105px;
+    display: inline-block;
+    width: 721px;
+    height: 89px;
 }
-.button {
+.how-to-contact {
     position: absolute;
-    top: 0px;
-    left: 0px;
-    border-radius: 25px;
-    background-color: #32cd32;
-    width: 165px;
-    height: 50px;
+    top: 760px;
+    left: 907px;
+    font-size: 24px;
+    line-height: 34px;
+    font-family: 'Press Start 2P';
 }
-.see-more {
+.lorem-ipsum-dolor1 {
     position: absolute;
-    top: 15px;
-    left: 34px;
-    font-weight: 600;
-}
-.see-more-button {
-    position: absolute;
-    top: 115px;
-    left: 1154px;
-    width: 165px;
-    height: 50px;
-    color: #000;
-    font-family: Orbitron;
-}
-.add-to-cart {
-    position: absolute;
-    top: 15px;
-    left: 19px;
-    font-weight: 600;
-}
-.cart-button {
-    position: absolute;
-    top: 115px;
-    left: 886px;
-    width: 165px;
-    height: 50px;
-    color: #000;
-    font-family: Orbitron;
-}
-.product-item {
-    position: absolute;
-    top: 422px;
-    left: calc(50% - 684px);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
-    text-align: left;
-    color: #2c2c2c;
-    font-family: Roboto;
-}
-.product-item1 {
-    position: absolute;
-    top: 829px;
-    left: calc(50% - 684px);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
-    text-align: left;
-    color: #2c2c2c;
-    font-family: Roboto;
-}
-.product-item2 {
-    position: absolute;
-    top: 1236px;
-    left: calc(50% - 684px);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
-    text-align: left;
-    color: #2c2c2c;
-    font-family: Roboto;
-}
-.product-item3 {
-    position: absolute;
-    top: 1643px;
-    left: calc(50% - 684px);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
-    text-align: left;
-    color: #2c2c2c;
-    font-family: Roboto;
-}
-.product-item4 {
-    position: absolute;
-    top: 2050px;
-    left: calc(50% - 684px);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
-    text-align: left;
-    color: #2c2c2c;
-    font-family: Roboto;
-}
-.per-page {
-    position: absolute;
-    top: 2px;
-    left: 0px;
+    top: 618px;
+    left: 907px;
     line-height: 21px;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 72px;
+    text-align: justify;
+    display: inline-block;
+    width: 721px;
+    height: 89px;
 }
-.sort-by {
+.lorem-ipsum-dolor2 {
     position: absolute;
-    top: 2px;
-    left: 151px;
+    top: 805px;
+    left: 907px;
+    line-height: 21px;
+    text-align: justify;
+    display: inline-block;
+    width: 721px;
+    height: 50px;
+}
+.tel {
+    font-family: Roboto;
+}
+.span {
     line-height: 21px;
 }
-.group-child {
-    position: absolute;
-    top: 0px;
-    left: 74px;
-    border-radius: 2px;
-    background-color: #fff;
-    border: 1px solid #c2c5e1;
-    box-sizing: border-box;
-    width: 55px;
-    height: 25px;
+.e-mail-artbitstudiogmailcom {
+    margin: 0;
 }
-.group-item {
+.tel-12-34-container {
     position: absolute;
-    top: 0px;
-    left: 207px;
-    border-radius: 2px;
-    background-color: #fff;
-    border: 1px solid #c2c5e1;
-    box-sizing: border-box;
-    width: 106px;
-    height: 25px;
+    top: 883px;
+    left: 964px;
+    display: inline-block;
+    width: 231px;
+    height: 38px;
 }
-.arrow-down-icon {
+.our-links {
     position: absolute;
-    height: 48%;
-    width: 3.83%;
-    top: 28%;
-    right: 1.92%;
-    bottom: 24%;
-    left: 94.25%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
+    top: 883px;
+    left: 1358px;
 }
-.low-price {
+.support-contact-for-container {
     position: absolute;
-    top: 5px;
-    left: 214px;
-    font-size: 14px;
-    color: #c2c5e1;
+    top: 971px;
+    left: 1358px;
+    line-height: 21px;
 }
-.per-page-parent {
+.free-hiring-transparency-container {
     position: absolute;
-    top: 354px;
-    left: 726px;
-    width: 313px;
-    height: 25px;
-    text-align: left;
-    color: #000;
-    font-family: Roboto;
+    top: 971px;
+    left: 964px;
+    line-height: 21px;
+    display: inline-block;
+    width: 231px;
+    height: 38px;
+}
+.facebook-icon1 {
+    position: absolute;
+    top: 909px;
+    left: 1358px;
+    width: 20px;
+    height: 20px;
+}
+.twitter-icon1 {
+    position: absolute;
+    top: 909px;
+    left: 1399px;
+    width: 20px;
+    height: 20px;
+}
+.instagram-icon1 {
+    position: absolute;
+    top: 907px;
+    left: 1440px;
+    width: 24px;
+    height: 24px;
+}
+.pocin1-icon {
+    position: absolute;
+    top: 973px;
+    left: 1309px;
+    width: 32px;
+    height: 44px;
+    object-fit: cover;
+}
+.pocin2-icon {
+    position: absolute;
+    top: 882px;
+    left: 1309px;
+    width: 32px;
+    height: 44px;
+    object-fit: cover;
+}
+.pocin3-icon {
+    position: absolute;
+    top: 882px;
+    left: 911px;
+    width: 32px;
+    height: 44px;
+    object-fit: cover;
+}
+.pocin4-icon {
+    position: absolute;
+    top: 973px;
+    left: 911px;
+    width: 32px;
+    height: 44px;
+    object-fit: cover;
 }
 .our-shop {
     position: absolute;
@@ -442,12 +261,6 @@
     left: 0px;
     width: 110px;
     height: 23px;
-}
-.hire-an-artist1 {
-    position: absolute;
-    top: 0%;
-    left: 0%;
-    cursor: pointer;
 }
 .hire-an-artist {
     position: absolute;
@@ -554,11 +367,6 @@
     width: 1728px;
     height: 50px;
 }
-.artbitstudiogmailcom {
-    position: absolute;
-    top: 0px;
-    left: 22px;
-}
 .email-icon {
     position: absolute;
     height: 84.21%;
@@ -577,6 +385,11 @@
     left: 128px;
     width: 202px;
     height: 19px;
+}
+.b {
+    position: absolute;
+    top: 0px;
+    left: 22px;
 }
 .phone-icon {
     position: absolute;
@@ -653,21 +466,21 @@
     width: 79px;
     height: 19px;
 }
-.facebook-icon1 {
+.facebook-icon2 {
     position: absolute;
     top: 15px;
     left: 1106px;
     width: 20px;
     height: 20px;
 }
-.twitter-icon1 {
+.twitter-icon2 {
     position: absolute;
     top: 15px;
     left: 1145px;
     width: 20px;
     height: 20px;
 }
-.instagram-icon1 {
+.instagram-icon2 {
     position: absolute;
     top: 13px;
     left: 1182px;
@@ -692,19 +505,19 @@
     left: 0px;
     width: 1728px;
     height: 178px;
+    text-align: center;
     font-size: 18px;
-    color: #000;
+    font-family: Orbitron;
 }
-.shop-list {
+.contact-about-us {
     width: 100%;
     position: relative;
     background-color: #fff;
-    height: 2584px;
+    height: 1117px;
     overflow: hidden;
-    text-align: center;
+    text-align: left;
     font-size: 16px;
-    color: #fff;
-    font-family: Orbitron;
+    color: #000;
+    font-family: Roboto;
 }
-
 

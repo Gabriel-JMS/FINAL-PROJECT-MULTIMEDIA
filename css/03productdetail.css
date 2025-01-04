@@ -64,12 +64,11 @@
 }
 .footer {
     position: absolute;
-    top: 2534px;
+    top: 1067px;
     left: 0px;
     width: 1728px;
     height: 50px;
     color: #ffa500;
-    font-family: Roboto;
 }
 .title-bar-child {
     position: absolute;
@@ -82,13 +81,13 @@
 .main-shop {
     position: absolute;
     top: 36px;
-    left: 584px;
+    left: 504px;
     line-height: 60px;
 }
 .home-our-shop {
     position: absolute;
     top: 100px;
-    left: 797px;
+    left: 731px;
     font-size: 16px;
     font-family: Roboto;
     color: #0f1db9;
@@ -100,106 +99,80 @@
     width: 1728px;
     height: 150px;
     font-size: 40px;
-    color: #000;
     font-family: 'Press Start 2P';
 }
-.page-number-child {
+.pixel-product-title {
     position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0%;
-    right: 0%;
-    bottom: 0%;
-    left: 0%;
-    border-radius: 5px;
-    background-color: #ff69b4;
+    top: 58px;
+    left: 599px;
+    font-size: 24px;
+    line-height: 34px;
+    font-family: 'Press Start 2P';
+    color: #ff69b4;
+}
+.category {
+    position: absolute;
+    top: 204px;
+    left: 599px;
+}
+.by-artist-name {
+    position: absolute;
+    top: 105px;
+    left: 599px;
+}
+.description {
+    position: absolute;
+    top: 288px;
+    left: 599px;
+}
+.nullam-non-tristique {
+    position: absolute;
+    top: 320px;
+    left: 599px;
+    line-height: 21px;
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    width: 879px;
+    height: 132px;
 }
 .div {
     position: absolute;
-    top: 16.67%;
-    left: 39.47%;
+    top: 147px;
+    left: 599px;
+    font-size: 24px;
+    line-height: 34px;
+    font-family: 'Press Start 2P';
+    color: #0f1db9;
+}
+.sales {
+    position: absolute;
+    top: 246px;
+    left: 599px;
+}
+.button {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 25px;
+    background-color: #32cd32;
+    width: 165px;
+    height: 50px;
+}
+.add-to-cart {
+    position: absolute;
+    top: 15px;
+    left: 19px;
     font-weight: 600;
 }
-.page-number {
+.cart-button {
     position: absolute;
-    top: 2454px;
-    left: 577px;
-    width: 38px;
-    height: 30px;
-}
-.div1 {
-    position: absolute;
-    top: 16.67%;
-    left: 28.95%;
-    font-weight: 600;
-}
-.page-number1 {
-    position: absolute;
-    top: 2454px;
-    left: 644px;
-    width: 38px;
-    height: 30px;
-}
-.page-number2 {
-    position: absolute;
-    top: 2454px;
-    left: 711px;
-    width: 38px;
-    height: 30px;
-}
-.div3 {
-    position: absolute;
-    top: 16.67%;
-    left: 31.58%;
-    font-weight: 600;
-}
-.page-number3 {
-    position: absolute;
-    top: 2454px;
-    left: 778px;
-    width: 38px;
-    height: 30px;
-}
-.page-number4 {
-    position: absolute;
-    top: 2454px;
-    left: 845px;
-    width: 38px;
-    height: 30px;
-}
-.page-number5 {
-    position: absolute;
-    top: 2454px;
-    left: 912px;
-    width: 38px;
-    height: 30px;
-}
-.div6 {
-    position: absolute;
-    top: 16.67%;
-    left: 34.21%;
-    font-weight: 600;
-}
-.page-number6 {
-    position: absolute;
-    top: 2454px;
-    left: 979px;
-    width: 38px;
-    height: 30px;
-}
-.page-number7 {
-    position: absolute;
-    top: 2454px;
-    left: 1046px;
-    width: 38px;
-    height: 30px;
-}
-.page-number8 {
-    position: absolute;
-    top: 2454px;
-    left: 1113px;
-    width: 38px;
-    height: 30px;
+    top: 496px;
+    left: 923px;
+    width: 165px;
+    height: 50px;
+    color: #000;
+    font-family: Orbitron;
 }
 .img-placeholder-child {
     position: absolute;
@@ -212,229 +185,26 @@
 }
 .img-placeholder {
     position: absolute;
-    top: 44px;
-    left: 42px;
-    width: 270px;
-    height: 270px;
+    top: 46px;
+    left: 50px;
+    width: 500px;
+    height: 500px;
     background-image: url('Img Placeholder.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
 }
-.product-title-pixel {
+.product-card {
     position: absolute;
-    top: 55px;
-    left: 354px;
-    font-size: 20px;
-}
-.by-artist-name {
-    position: absolute;
-    top: 94px;
-    left: 354px;
-    line-height: 21px;
-}
-.category {
-    position: absolute;
-    top: 129px;
-    left: 354px;
-    font-size: 14px;
-}
-.div9 {
-    position: absolute;
-    top: 167px;
-    left: 354px;
-    font-size: 20px;
-    color: #0f1db9;
-    text-align: center;
-}
-.lorem-ipsum-dolor {
-    position: absolute;
-    top: 209px;
-    left: 354px;
-    line-height: 21px;
-    color: #828282;
-    text-align: justify;
-    display: flex;
-    align-items: center;
-    width: 965px;
-    height: 105px;
-}
-.button {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    border-radius: 25px;
-    background-color: #32cd32;
-    width: 165px;
-    height: 50px;
-}
-.see-more {
-    position: absolute;
-    top: 15px;
-    left: 34px;
-    font-weight: 600;
-}
-.see-more-button {
-    position: absolute;
-    top: 115px;
-    left: 1154px;
-    width: 165px;
-    height: 50px;
-    color: #000;
-    font-family: Orbitron;
-}
-.add-to-cart {
-    position: absolute;
-    top: 15px;
-    left: 19px;
-    font-weight: 600;
-}
-.cart-button {
-    position: absolute;
-    top: 115px;
-    left: 886px;
-    width: 165px;
-    height: 50px;
-    color: #000;
-    font-family: Orbitron;
-}
-.product-item {
-    position: absolute;
-    top: 422px;
-    left: calc(50% - 684px);
+    top: 392px;
+    left: 100px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
+    width: 1528px;
+    height: 594px;
     text-align: left;
     color: #2c2c2c;
-    font-family: Roboto;
-}
-.product-item1 {
-    position: absolute;
-    top: 829px;
-    left: calc(50% - 684px);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
-    text-align: left;
-    color: #2c2c2c;
-    font-family: Roboto;
-}
-.product-item2 {
-    position: absolute;
-    top: 1236px;
-    left: calc(50% - 684px);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
-    text-align: left;
-    color: #2c2c2c;
-    font-family: Roboto;
-}
-.product-item3 {
-    position: absolute;
-    top: 1643px;
-    left: calc(50% - 684px);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
-    text-align: left;
-    color: #2c2c2c;
-    font-family: Roboto;
-}
-.product-item4 {
-    position: absolute;
-    top: 2050px;
-    left: calc(50% - 684px);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    background-color: #f5f5f5;
-    width: 1367px;
-    height: 357px;
-    overflow: hidden;
-    text-align: left;
-    color: #2c2c2c;
-    font-family: Roboto;
-}
-.per-page {
-    position: absolute;
-    top: 2px;
-    left: 0px;
-    line-height: 21px;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 72px;
-}
-.sort-by {
-    position: absolute;
-    top: 2px;
-    left: 151px;
-    line-height: 21px;
-}
-.group-child {
-    position: absolute;
-    top: 0px;
-    left: 74px;
-    border-radius: 2px;
-    background-color: #fff;
-    border: 1px solid #c2c5e1;
-    box-sizing: border-box;
-    width: 55px;
-    height: 25px;
-}
-.group-item {
-    position: absolute;
-    top: 0px;
-    left: 207px;
-    border-radius: 2px;
-    background-color: #fff;
-    border: 1px solid #c2c5e1;
-    box-sizing: border-box;
-    width: 106px;
-    height: 25px;
-}
-.arrow-down-icon {
-    position: absolute;
-    height: 48%;
-    width: 3.83%;
-    top: 28%;
-    right: 1.92%;
-    bottom: 24%;
-    left: 94.25%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
-}
-.low-price {
-    position: absolute;
-    top: 5px;
-    left: 214px;
-    font-size: 14px;
-    color: #c2c5e1;
-}
-.per-page-parent {
-    position: absolute;
-    top: 354px;
-    left: 726px;
-    width: 313px;
-    height: 25px;
-    text-align: left;
-    color: #000;
-    font-family: Roboto;
 }
 .our-shop {
     position: absolute;
@@ -442,12 +212,6 @@
     left: 0px;
     width: 110px;
     height: 23px;
-}
-.hire-an-artist1 {
-    position: absolute;
-    top: 0%;
-    left: 0%;
-    cursor: pointer;
 }
 .hire-an-artist {
     position: absolute;
@@ -693,18 +457,17 @@
     width: 1728px;
     height: 178px;
     font-size: 18px;
-    color: #000;
+    font-family: Orbitron;
 }
-.shop-list {
+.product-detail {
     width: 100%;
     position: relative;
     background-color: #fff;
-    height: 2584px;
+    height: 1117px;
     overflow: hidden;
     text-align: center;
     font-size: 16px;
-    color: #fff;
-    font-family: Orbitron;
+    color: #000;
+    font-family: Roboto;
 }
-
 
