@@ -1,8 +1,23 @@
+.container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
 
 body {
     margin: 0;
     line-height: normal;
     overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    position: relative;
+    font-size: 18px;
+    display: inline-block;
+    font-family: Orbitron;
+    color: #000;
+    text-align: center;
 }
 
 .frame {
