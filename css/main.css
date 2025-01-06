@@ -2,707 +2,710 @@
 body {
     margin: 0;
     line-height: normal;
+    overflow-x: hidden;
 }
 
 .frame {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    background-color: #2c2c2c;
-    width: 1728px;
-    height: 50px;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #2c2c2c;
+  	width: 1728px;
+  	height: 50px;
 }
 .about-us {
-    position: absolute;
-    top: 15px;
-    left: 1353px;
-    cursor: pointer;
+  	position: absolute;
+  	top: 15px;
+  	left: 1353px;
+  	cursor: pointer;
 }
 .artbitstudio-all {
-    position: absolute;
-    top: 15px;
-    left: calc(50% - 556px);
-    opacity: 0.5;
+  	position: absolute;
+  	top: 15px;
+  	left: calc(50% - 556px);
+  	opacity: 0.5;
 }
 .faq {
-    position: absolute;
-    top: 14px;
-    left: 1264px;
+  	position: absolute;
+  	top: 14px;
+  	left: 1264px;
 }
 .policy-legal {
-    position: absolute;
-    top: 15px;
-    left: 1102px;
+  	position: absolute;
+  	top: 15px;
+  	left: 1102px;
 }
 .facebook-icon {
-    position: absolute;
-    top: 2px;
-    left: 0px;
-    width: 20px;
-    height: 20px;
+  	position: absolute;
+  	top: 2px;
+  	left: 0px;
+  	width: 20px;
+  	height: 20px;
 }
 .instagram-icon {
-    position: absolute;
-    top: 0px;
-    left: 91px;
-    width: 24px;
-    height: 24px;
+  	position: absolute;
+  	top: 0px;
+  	left: 91px;
+  	width: 24px;
+  	height: 24px;
 }
 .twitter-icon {
-    position: absolute;
-    top: 2px;
-    left: 46px;
-    width: 20px;
-    height: 20px;
+  	position: absolute;
+  	top: 2px;
+  	left: 46px;
+  	width: 20px;
+  	height: 20px;
 }
 .social-media {
-    position: absolute;
-    top: 12px;
-    left: 1463px;
-    width: 115px;
-    height: 24px;
+  	position: absolute;
+  	top: 12px;
+  	left: 1463px;
+  	width: 115px;
+  	height: 24px;
 }
 .footer {
-    position: absolute;
-    top: 3434px;
-    left: 0px;
-    width: 1728px;
-    height: 50px;
-    font-size: 16px;
+  	position: absolute;
+  	top: 3434px;
+  	left: 0px;
+  	width: 1728px;
+  	height: 50px;
+  	font-size: 16px;
 }
 .photo-icon {
-    position: absolute;
-    top: 50px;
-    left: 987px;
-    width: 500px;
-    height: 500px;
+  	position: absolute;
+  	top: 50px;
+  	left: 987px;
+  	width: 500px;
+  	height: 500px;
 }
 .updownbutton-icon {
-    position: absolute;
-    top: 280px;
-    left: 1588px;
-    width: 40px;
-    height: 40px;
-    object-fit: contain;
+  	position: absolute;
+  	top: 280px;
+  	left: 1588px;
+  	width: 40px;
+  	height: 40px;
+  	object-fit: contain;
 }
 .updownbutton-icon1 {
-    position: absolute;
-    top: 280px;
-    left: 100px;
-    width: 40px;
-    height: 40px;
-    object-fit: contain;
+  	position: absolute;
+  	top: 280px;
+  	left: 100px;
+  	width: 40px;
+  	height: 40px;
+  	object-fit: contain;
 }
 .marketing-slogan {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    display: flex;
-    align-items: center;
-    width: 600px;
-    height: 30px;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	display: flex;
+  	align-items: center;
+  	width: 600px;
+  	height: 30px;
 }
 .product-description {
-    position: absolute;
-    top: 213px;
-    left: 0px;
-    line-height: 21px;
-    text-align: justify;
-    display: flex;
-    align-items: center;
-    width: 600px;
+  	position: absolute;
+  	top: 213px;
+  	left: 0px;
+  	line-height: 21px;
+  	text-align: justify;
+  	display: flex;
+  	align-items: center;
+  	width: 600px;
 }
 .product-name1 {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0%;
-    left: 0%;
-    line-height: 60px;
-    display: flex;
-    align-items: center;
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	line-height: 60px;
+  	display: flex;
+  	align-items: center;
 }
 .product-name {
-    position: absolute;
-    top: 45px;
-    left: calc(50% - 307px);
-    width: 614px;
-    height: 150px;
-    font-size: 40px;
-    font-family: 'Press Start 2P';
+  	position: absolute;
+  	top: 45px;
+  	left: calc(50% - 307px);
+  	width: 614px;
+  	height: 150px;
+  	font-size: 40px;
+  	font-family: 'Press Start 2P';
 }
 .button {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    border-radius: 25px;
-    background-color: #32cd32;
-    width: 165px;
-    height: 50px;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 25px;
+  	background-color: #32cd32;
+  	width: 165px;
+  	height: 50px;
 }
 .add-to-cart {
-    position: absolute;
-    top: 15px;
-    left: 19px;
-    font-weight: 600;
+  	position: absolute;
+  	top: 15px;
+  	left: 19px;
+  	font-weight: 600;
 }
 .cart-button {
-    position: absolute;
-    top: 320px;
-    left: 225px;
-    width: 165px;
-    height: 50px;
-    font-family: Orbitron;
+  	position: absolute;
+  	top: 320px;
+  	left: 225px;
+  	width: 165px;
+  	height: 50px;
+  	font-family: Orbitron;
 }
 .product-info {
-    position: absolute;
-    top: 125px;
-    left: 225px;
-    width: 614px;
-    height: 370px;
+  	position: absolute;
+  	top: 125px;
+  	left: 225px;
+  	width: 614px;
+  	height: 370px;
 }
 .off-sale-child {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    border-radius: 50%;
-    background-color: #ff69b4;
-    width: 125px;
-    height: 125px;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 50%;
+  	background-color: #ff69b4;
+  	width: 125px;
+  	height: 125px;
 }
 .p {
-    margin: 0;
+  	margin: 0;
 }
 .off-txt {
-    line-break: anywhere;
-    width: 100%;
+  	line-break: anywhere;
+  	width: 100%;
 }
 .off {
-    width: 110px;
-    position: relative;
-    line-height: 34px;
-    display: flex;
-    align-items: center;
-    height: 64px;
-    flex-shrink: 0;
+  	width: 110px;
+  	position: relative;
+  	line-height: 34px;
+  	display: flex;
+  	align-items: center;
+  	height: 64px;
+  	flex-shrink: 0;
 }
 .amount {
-    position: absolute;
-    top: 31px;
-    left: 8px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
+  	position: absolute;
+  	top: 31px;
+  	left: 8px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
 }
 .off-sale {
-    position: absolute;
-    top: calc(50% - 250px);
-    left: calc(50% + 498px);
-    width: 125px;
-    height: 125px;
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Press Start 2P';
+  	position: absolute;
+  	top: calc(50% - 250px);
+  	left: calc(50% + 498px);
+  	width: 125px;
+  	height: 125px;
+  	text-align: center;
+  	font-size: 24px;
+  	font-family: 'Press Start 2P';
 }
 .slider {
-    position: absolute;
-    top: 150px;
-    left: 0px;
-    background-color: #ffa500;
-    width: 1728px;
-    height: 600px;
-    text-align: left;
-    font-size: 16px;
-    color: #000;
+  	position: absolute;
+  	top: 150px;
+  	left: 0px;
+  	background-color: #ffa500;
+  	width: 1728px;
+  	height: 600px;
+  	text-align: left;
+  	font-size: 16px;
+  	color: #000;
 }
 .new-products1 {
-    position: absolute;
-    top: 0px;
-    left: 533px;
-    font-size: 32px;
-    font-family: 'Press Start 2P';
-    color: #ff69b4;
+  	position: absolute;
+  	top: 0px;
+  	left: 533px;
+  	font-size: 32px;
+  	font-family: 'Press Start 2P';
+  	color: #ff69b4;
 }
 .product-box-child {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    box-shadow: 0px 7px 4px -2px rgba(0, 0, 0, 0.25);
-    background-color: #0f1db9;
-    width: 270px;
-    height: 406px;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 0px 7px 4px -2px rgba(0, 0, 0, 0.25);
+  	background-color: #0f1db9;
+  	width: 270px;
+  	height: 406px;
 }
 .item-placeholder {
-    position: absolute;
-    top: 283px;
-    left: 58px;
+  	position: absolute;
+  	top: 283px;
+  	left: 58px;
 }
 .by-artist-name {
-    position: absolute;
-    top: 317px;
-    left: 52px;
-    font-size: 14px;
-    color: #f5f5f5;
+  	position: absolute;
+  	top: 317px;
+  	left: 52px;
+  	font-size: 14px;
+  	color: #f5f5f5;
 }
 .price {
-    position: absolute;
-    top: 344px;
-    left: 124px;
+  	position: absolute;
+  	top: 344px;
+  	left: 124px;
 }
 .sales {
-    position: absolute;
-    top: 378px;
-    left: 108px;
-    font-size: 14px;
-    color: #f5f5f5;
+  	position: absolute;
+  	top: 378px;
+  	left: 108px;
+  	font-size: 14px;
+  	color: #f5f5f5;
 }
 .img-placeholder-icon {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 270px;
-    height: 270px;
-    object-fit: cover;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 270px;
+  	height: 270px;
+  	object-fit: cover;
 }
 .product-box {
-    position: absolute;
-    top: 68px;
-    left: 0px;
-    width: 270px;
-    height: 406px;
+  	position: absolute;
+  	top: 68px;
+  	left: 0px;
+  	width: 270px;
+  	height: 406px;
 }
 .price1 {
-    position: absolute;
-    top: 344px;
-    left: 118px;
+  	position: absolute;
+  	top: 344px;
+  	left: 118px;
 }
 .sales1 {
-    position: absolute;
-    top: 378px;
-    left: 112px;
-    font-size: 14px;
-    color: #f5f5f5;
+  	position: absolute;
+  	top: 378px;
+  	left: 112px;
+  	font-size: 14px;
+  	color: #f5f5f5;
 }
 .product-box1 {
-    position: absolute;
-    top: 68px;
-    left: 393px;
-    width: 270px;
-    height: 406px;
+  	position: absolute;
+  	top: 68px;
+  	left: 393px;
+  	width: 270px;
+  	height: 406px;
 }
 .product-box2 {
-    position: absolute;
-    top: 68px;
-    left: 786px;
-    width: 270px;
-    height: 406px;
+  	position: absolute;
+  	top: 68px;
+  	left: 786px;
+  	width: 270px;
+  	height: 406px;
 }
 .product-box3 {
-    position: absolute;
-    top: 68px;
-    left: 1179px;
-    width: 270px;
-    height: 406px;
+  	position: absolute;
+  	top: 68px;
+  	left: 1179px;
+  	width: 270px;
+  	height: 406px;
 }
 .see-more {
-    position: absolute;
-    top: 15px;
-    left: 34px;
-    font-weight: 600;
+  	position: absolute;
+  	top: 15px;
+  	left: 34px;
+  	font-weight: 600;
 }
 .see-more-button {
-    position: absolute;
-    top: 531px;
-    left: 642px;
-    width: 165px;
-    height: 50px;
-    text-align: left;
-    font-size: 16px;
-    color: #000;
-    font-family: Orbitron;
+  	position: absolute;
+  	top: 531px;
+  	left: 642px;
+  	width: 165px;
+  	height: 50px;
+  	text-align: left;
+  	font-size: 16px;
+  	color: #000;
+  	font-family: Orbitron;
 }
 .new-products {
-    position: absolute;
-    top: 816px;
-    left: 139px;
-    width: 1449px;
-    height: 581px;
+  	position: absolute;
+  	top: 816px;
+  	left: 139px;
+  	width: 1449px;
+  	height: 581px;
 }
 .best-selled1 {
-    position: absolute;
-    top: 0px;
-    left: 549px;
-    font-size: 32px;
-    font-family: 'Press Start 2P';
-    color: #ff69b4;
+  	position: absolute;
+  	top: 0px;
+  	left: 549px;
+  	font-size: 32px;
+  	font-family: 'Press Start 2P';
+  	color: #ff69b4;
 }
 .item-placeholder4 {
-    position: absolute;
-    top: 283px;
-    left: 65px;
+  	position: absolute;
+  	top: 283px;
+  	left: 65px;
 }
 .sales4 {
-    position: absolute;
-    top: 378px;
-    left: 104px;
-    font-size: 14px;
-    color: #f5f5f5;
+  	position: absolute;
+  	top: 378px;
+  	left: 104px;
+  	font-size: 14px;
+  	color: #f5f5f5;
 }
 .img-placeholder-child {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0%;
-    right: 0%;
-    bottom: 0%;
-    left: 0%;
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
 }
 .img-placeholder {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 270px;
-    height: 270px;
-    background-image: url('Img Placeholder.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 270px;
+  	height: 270px;
+  	background-image: url('Img Placeholder.png');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: top;
 }
 .best-selled {
-    position: absolute;
-    top: 1466px;
-    left: 139px;
-    width: 1449px;
-    height: 581px;
+  	position: absolute;
+  	top: 1466px;
+  	left: 139px;
+  	width: 1449px;
+  	height: 581px;
 }
 .most-solicited-artists1 {
-    position: absolute;
-    top: 0px;
-    left: 373px;
-    font-size: 32px;
-    font-family: 'Press Start 2P';
-    color: #ff69b4;
+  	position: absolute;
+  	top: 0px;
+  	left: 373px;
+  	font-size: 32px;
+  	font-family: 'Press Start 2P';
+  	color: #ff69b4;
 }
 .artist-name {
-    position: absolute;
-    top: 279px;
-    left: 70px;
+  	position: absolute;
+  	top: 279px;
+  	left: 70px;
 }
 .price8 {
-    position: absolute;
-    top: 336px;
-    left: 105px;
+  	position: absolute;
+  	top: 336px;
+  	left: 105px;
 }
 .jobs {
-    position: absolute;
-    top: 311px;
-    left: 82px;
-    font-size: 14px;
-    color: #f5f5f5;
-    text-align: left;
-    display: inline-block;
-    width: 108px;
+  	position: absolute;
+  	top: 311px;
+  	left: 82px;
+  	font-size: 14px;
+  	color: #f5f5f5;
+  	text-align: left;
+  	display: inline-block;
+  	width: 108px;
 }
 .pixel-art {
-    position: absolute;
-    top: 368px;
-    left: 14px;
-    font-size: 14px;
-    color: #f5f5f5;
-    display: inline-block;
-    width: 243px;
+  	position: absolute;
+  	top: 368px;
+  	left: 14px;
+  	font-size: 14px;
+  	color: #f5f5f5;
+  	display: inline-block;
+  	width: 243px;
 }
 .most-solicited-artists {
-    position: absolute;
-    top: 2116px;
-    left: 139px;
-    width: 1449px;
-    height: 581px;
+  	position: absolute;
+  	top: 2116px;
+  	left: 139px;
+  	width: 1449px;
+  	height: 581px;
 }
 .newcomer-artists1 {
-    position: absolute;
-    top: 0px;
-    left: 469px;
-    font-size: 32px;
-    font-family: 'Press Start 2P';
-    color: #ff69b4;
+  	position: absolute;
+  	top: 0px;
+  	left: 469px;
+  	font-size: 32px;
+  	font-family: 'Press Start 2P';
+  	color: #ff69b4;
 }
 .newcomer-artists {
-    position: absolute;
-    top: 2766px;
-    left: 139px;
-    width: 1449px;
-    height: 581px;
+  	position: absolute;
+  	top: 2766px;
+  	left: 139px;
+  	width: 1449px;
+  	height: 581px;
 }
 .our-shop1 {
-    position: absolute;
-    top: 0%;
-    left: 0%;
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
 }
 .our-shop {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 110px;
-    height: 23px;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 110px;
+  	height: 23px;
 }
 .hire-an-artist {
-    position: absolute;
-    top: 0px;
-    left: 160px;
-    width: 165px;
-    height: 23px;
+  	position: absolute;
+  	top: 0px;
+  	left: 160px;
+  	width: 165px;
+  	height: 23px;
 }
 .collaborations {
-    position: absolute;
-    top: 0px;
-    left: 375px;
-    width: 195px;
-    height: 23px;
+  	position: absolute;
+  	top: 0px;
+  	left: 375px;
+  	width: 195px;
+  	height: 23px;
 }
 .main-buttons {
-    position: absolute;
-    top: 49px;
-    left: 346px;
-    width: 570px;
-    height: 23px;
+  	position: absolute;
+  	top: 49px;
+  	left: 346px;
+  	width: 570px;
+  	height: 23px;
 }
 .frame1 {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0%;
-    right: 0%;
-    bottom: 0%;
-    left: 0%;
-    border: 2px solid #e7e6ef;
-    box-sizing: border-box;
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border: 2px solid #e7e6ef;
+  	box-sizing: border-box;
 }
 .frame-child {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0%;
-    right: 0%;
-    bottom: 0%;
-    left: 0%;
-    background-color: #2c2c2c;
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #2c2c2c;
 }
 .frame2 {
-    position: absolute;
-    height: 100%;
-    width: 10.2%;
-    top: 0%;
-    right: 0%;
-    bottom: 0%;
-    left: 89.8%;
+  	position: absolute;
+  	height: 100%;
+  	width: 10.2%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 89.8%;
 }
 .search-button-icon {
-    position: absolute;
-    height: 60%;
-    width: 4.8%;
-    top: 20%;
-    right: 2.6%;
-    bottom: 20%;
-    left: 92.6%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
+  	position: absolute;
+  	height: 60%;
+  	width: 4.8%;
+  	top: 20%;
+  	right: 2.6%;
+  	bottom: 20%;
+  	left: 92.6%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
 }
 .search-bar {
-    position: absolute;
-    top: 40px;
-    left: 962px;
-    width: 500px;
-    height: 40px;
+  	position: absolute;
+  	top: 40px;
+  	left: 962px;
+  	width: 500px;
+  	height: 40px;
 }
 .rt {
-    font-size: 64px;
+  	font-size: 64px;
 }
 .artbitstudio {
-    position: absolute;
-    top: 0px;
-    left: 0px;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
 }
 .logo {
-    position: absolute;
-    top: -2px;
-    left: 0px;
-    width: 262px;
-    height: 138px;
-    text-align: left;
-    font-size: 96px;
-    font-family: Teko;
+  	position: absolute;
+  	top: -2px;
+  	left: 0px;
+  	width: 262px;
+  	height: 138px;
+  	text-align: left;
+  	font-size: 96px;
+  	font-family: Teko;
 }
 .header1 {
-    position: absolute;
-    height: 77.53%;
-    width: 86.69%;
-    top: 22.47%;
-    right: 5.79%;
-    bottom: 0%;
-    left: 7.52%;
+  	position: absolute;
+  	height: 77.53%;
+  	width: 86.69%;
+  	top: 22.47%;
+  	right: 5.79%;
+  	bottom: 0%;
+  	left: 7.52%;
 }
 .frame3 {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    background-color: #0f1db9;
-    width: 1728px;
-    height: 50px;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #0f1db9;
+  	width: 1728px;
+  	height: 50px;
 }
 .artbitstudiogmailcom {
-    position: absolute;
-    top: 0px;
-    left: 22px;
+  	position: absolute;
+  	top: 0px;
+  	left: 22px;
 }
 .email-icon {
-    position: absolute;
-    height: 84.21%;
-    width: 7.92%;
-    top: 10.53%;
-    right: 92.08%;
-    bottom: 5.26%;
-    left: 0%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
+  	position: absolute;
+  	height: 84.21%;
+  	width: 7.92%;
+  	top: 10.53%;
+  	right: 92.08%;
+  	bottom: 5.26%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
 }
 .contact-mail {
-    position: absolute;
-    top: 16px;
-    left: 128px;
-    width: 202px;
-    height: 19px;
+  	position: absolute;
+  	top: 16px;
+  	left: 128px;
+  	width: 202px;
+  	height: 19px;
 }
 .phone-icon {
-    position: absolute;
-    height: 84.21%;
-    width: 12.6%;
-    top: 5.26%;
-    right: 87.4%;
-    bottom: 10.53%;
-    left: 0%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
+  	position: absolute;
+  	height: 84.21%;
+  	width: 12.6%;
+  	top: 5.26%;
+  	right: 87.4%;
+  	bottom: 10.53%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
 }
 .contact-number {
-    position: absolute;
-    top: 16px;
-    left: 458px;
-    width: 127px;
-    height: 19px;
+  	position: absolute;
+  	top: 16px;
+  	left: 458px;
+  	width: 127px;
+  	height: 19px;
 }
 .contact-us {
-    position: absolute;
-    top: 16px;
-    left: 1260px;
-    width: 79px;
-    height: 19px;
+  	position: absolute;
+  	top: 16px;
+  	left: 1260px;
+  	width: 79px;
+  	height: 19px;
 }
 .login {
-    position: absolute;
-    top: 0%;
-    left: 33.87%;
+  	position: absolute;
+  	top: 0%;
+  	left: 33.87%;
 }
 .user-icon {
-    position: absolute;
-    height: 84.21%;
-    width: 25.81%;
-    top: 5.26%;
-    right: 74.19%;
-    bottom: 10.53%;
-    left: 0%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
+  	position: absolute;
+  	height: 84.21%;
+  	width: 25.81%;
+  	top: 5.26%;
+  	right: 74.19%;
+  	bottom: 10.53%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
 }
 .user-login {
-    position: absolute;
-    top: 16px;
-    left: 1394px;
-    width: 62px;
-    height: 19px;
+  	position: absolute;
+  	top: 16px;
+  	left: 1394px;
+  	width: 62px;
+  	height: 19px;
 }
 .shopping-cart {
-    position: absolute;
-    top: 0%;
-    left: 25.32%;
-    cursor: pointer;
+  	position: absolute;
+  	top: 0%;
+  	left: 25.32%;
+  	cursor: pointer;
 }
 .wish-icon {
-    position: absolute;
-    height: 84.21%;
-    width: 20.25%;
-    top: 5.26%;
-    right: 79.75%;
-    bottom: 10.53%;
-    left: 0%;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
+  	position: absolute;
+  	height: 84.21%;
+  	width: 20.25%;
+  	top: 5.26%;
+  	right: 79.75%;
+  	bottom: 10.53%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
 }
 .wishlist {
-    position: absolute;
-    top: 16px;
-    left: 1520px;
-    width: 79px;
-    height: 19px;
+  	position: absolute;
+  	top: 16px;
+  	left: 1520px;
+  	width: 79px;
+  	height: 19px;
 }
 .facebook-icon1 {
-    position: absolute;
-    top: 15px;
-    left: 1106px;
-    width: 20px;
-    height: 20px;
+  	position: absolute;
+  	top: 15px;
+  	left: 1106px;
+  	width: 20px;
+  	height: 20px;
 }
 .twitter-icon1 {
-    position: absolute;
-    top: 15px;
-    left: 1145px;
-    width: 20px;
-    height: 20px;
+  	position: absolute;
+  	top: 15px;
+  	left: 1145px;
+  	width: 20px;
+  	height: 20px;
 }
 .instagram-icon1 {
-    position: absolute;
-    top: 13px;
-    left: 1182px;
-    width: 24px;
-    height: 24px;
+  	position: absolute;
+  	top: 13px;
+  	left: 1182px;
+  	width: 24px;
+  	height: 24px;
 }
 .top-header {
-    position: absolute;
-    height: 28.09%;
-    width: 100%;
-    top: 0%;
-    right: 0%;
-    bottom: 71.91%;
-    left: 0%;
-    font-size: 16px;
-    color: #f5f5f5;
-    font-family: Roboto;
+  	position: absolute;
+  	height: 28.09%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 71.91%;
+  	left: 0%;
+  	font-size: 16px;
+  	color: #f5f5f5;
+  	font-family: Roboto;
 }
 .header {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 1728px;
-    height: 178px;
-    font-size: 18px;
-    color: #000;
-    font-family: Orbitron;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1728px;
+  	height: 178px;
+  	font-size: 18px;
+  	color: #000;
+  	font-family: Orbitron;
 }
 .home {
-    width: 100%;
-    position: relative;
-    background-color: #fff;
-    height: 3484px;
-    overflow: hidden;
-    text-align: center;
-    font-size: 20px;
-    color: #ffa500;
-    font-family: Roboto;
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 3484px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 20px;
+  	color: #ffa500;
+  	font-family: Roboto;
+    max-width: 100%;
+    box-sizing: ;
 }
 

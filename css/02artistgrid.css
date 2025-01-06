@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
 .frame {
     position: absolute;
     top: 0px;
